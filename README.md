@@ -8,8 +8,8 @@ This is a full-stack auction application consisting of a Node.js backend and a V
 
 ## How to Run
 1. **Backend**: Navigate to /backend, run \
-pm install\, then \
-ode server.js\.
+npm install\, then \
+Node server.js\.
 2. **Frontend**: Navigate to /frontend, run \
-pm install\, then \
-pm run dev\.
+Npm install\, then \
+Npm run dev\.
